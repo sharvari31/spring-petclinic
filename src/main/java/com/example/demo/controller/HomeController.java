@@ -8,6 +8,6 @@ public class HomeController {
 
     @GetMapping("/")
     public String showMessage() {
-        return "A084 - Udit Set-B DevOps Exam";
+        return " Pet Clinic Application A087 Sharvari Exam";
     }
 }
